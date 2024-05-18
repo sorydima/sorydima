@@ -28,7 +28,7 @@ My career journey is marked by significant milestones that reflect my growth and
 ## Connect with Me
 
 Feel free to reach out if you have any questions, ideas, or collaboration opportunities. You can connect with me through the following platforms:
-- Matrix: [Matrix.org Server](@sorydima:matrix.org)
+- Matrix: [Matrix.org Server](https://matrix.to/#/@sorydima:matrix.org)
 - Twitter/X.com: [Twitter/X.com](https://x.com/DmitrySoro90935)
 - Email: [My Email Address](mailto:sorydima@rechain.email)
 
