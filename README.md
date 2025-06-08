@@ -79,8 +79,14 @@ My career journey is marked by significant milestones that reflect my growth and
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming** & **CyberSec**.
  
 ## Other Stuff
-  - :octocat: [Katya, Inc on Git](https://github.com/Katya-Incorporated)
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+  	- :octocat: [Katya, Inc on Git](https://github.com/Katya-Incorporated)
+	- :octocat: [Eseniia University on Git](https://github.com/Eseniia-University)
+  	- :octocat: [Katya Solutions, LLC on Git](https://github.com/Katya-Solutions-LLC)
+    	- :octocat: [Join the Domestic Marina! Marina.Moda ® 💖♥️ Music Prod. 🤳: Discover Top Podcasts & Music | Your Ultimate Audio Hub For Your Pods! on Git](https://github.com/MarinaModaMusicProd)
+      	- :octocat: [Nastasia Food on Git](https://github.com/Nastasia-Food)
+        - :octocat: [REChain Developers Office Foundation on Git](https://github.com/REChain-Developers-Office-Foundation)
+        - :octocat: [REChain Network Solutions on Git](https://github.com/REChain-Network-Solutions)
+  	- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=sorydima&show_icons=true)
  
