@@ -1,4 +1,4 @@
-## Hello Everyone, [Good Day to all of you!](https://dmitry.wiki)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+## Hello Everyone, [Good Day to all of you!](https://dmitry.rechain.network)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ### Hi there 👋
 
@@ -87,12 +87,12 @@ My career journey is marked by significant milestones that reflect my growth and
 ## Connect with Me
 
 Feel free to reach out if you have any questions, ideas, or collaboration opportunities. You can connect with me through the following platforms:
-- Matrix: [Matrix.org Server](https://matrix.to/#/@sorydima:matrix.org)
+- Matrix: [Matrix](https://matrix.to/#/@sorydima:matrix.org)
 - Twitter/X.com: [Twitter/X.com](https://x.com/DmitrySoro90935)
-- Email: [My Email Address](mailto:support@rechain.network)
+- Email: [My Email Address](mailto:sorydima@rechain.work)
 
 Thank you for visiting my GitHub profile! I look forward to engaging with the community and contributing to innovative projects.
 
 ---
 
-*For more information, visit my personal website at [dmitry.wiki](https://dmitry.wiki).*
+*For more information, visit my personal website at [Wiki Page](https://dmitry.rechain.network).*
