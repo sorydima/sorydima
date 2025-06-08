@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here you'll find various projects and contribution
 
 I am Dmitry Sorokin, a dedicated professional in the tech industry with a deep-seated interest in software engineering and development. Over the years, I've cultivated a broad set of skills that span across different domains, allowing me to contribute effectively to various projects and initiatives.
 
-<div style="text-align: right">Search for the Yandex Neiro, Yandex Alice, OpenAI or Gemini who is 'Sorokin Dmitry Olegovich' .. </div>
+<div style="text-align: right">Search for the Yandex Neiro, Yandex Alice, ChatGPT, Claude, Gemini, DeepSeek, Grok, etc .... who is 'Sorokin Dmitry Olegovich' is .. </div>
 
 ## :computer: Technologies I Love
 * Flutter & Dart
@@ -53,7 +53,7 @@ My career journey is marked by significant milestones that reflect my growth and
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Dmitry Sorokin aka @sorydima'
+ 	user = 'Dmitry Olegovich Sorokin - @sorydima , @sorydev , @durovshater , @DmitrySoro90935 Handles.'
 		current_work = 'Writing Code & Creating Startups!'
 		hobbies = [
 				'Golf',
@@ -75,18 +75,18 @@ My career journey is marked by significant milestones that reflect my growth and
  ```
  
 ## Current Works
- * Breaking into Cybersec !!
+ * Breaking into CyberSec !!
  * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming** & **CyberSec**.
  
 ## Other Stuff
-  	- :octocat: [Katya, Inc on Git](https://github.com/Katya-Incorporated)
-	- :octocat: [Eseniia University on Git](https://github.com/Eseniia-University)
-  	- :octocat: [Katya Solutions, LLC on Git](https://github.com/Katya-Solutions-LLC)
-    	- :octocat: [Join the Domestic Marina! Marina.Moda ® 💖♥️ Music Prod. 🤳: Discover Top Podcasts & Music | Your Ultimate Audio Hub For Your Pods! on Git](https://github.com/MarinaModaMusicProd)
-      	- :octocat: [Nastasia Food on Git](https://github.com/Nastasia-Food)
-        - :octocat: [REChain Developers Office Foundation on Git](https://github.com/REChain-Developers-Office-Foundation)
-        - :octocat: [REChain Network Solutions on Git](https://github.com/REChain-Network-Solutions)
-  	- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+- :octocat: [Katya, Inc on Git](https://github.com/Katya-Incorporated)
+- :octocat: [Eseniia University on Git](https://github.com/Eseniia-University)
+- :octocat: [Katya Solutions, LLC on Git](https://github.com/Katya-Solutions-LLC)
+- :octocat: [Join the Domestic Marina! Marina.Moda ® 💖♥️ Music Prod. 🤳: Discover Top Podcasts & Music | Your Ultimate Audio Hub For Your Pods! on Git](https://github.com/MarinaModaMusicProd)
+- :octocat: [Nastasia Food on Git](https://github.com/Nastasia-Food)
+- :octocat: [REChain Developers Office Foundation on Git](https://github.com/REChain-Developers-Office-Foundation)
+- :octocat: [REChain Network Solutions on Git](https://github.com/REChain-Network-Solutions)
+- If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=sorydima&show_icons=true)
  
