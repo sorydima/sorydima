@@ -89,6 +89,145 @@ My career journey is marked by significant milestones that reflect my growth and
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=sorydima&show_icons=true)
+
+# REChain® Network & Ecosystem
+
+## 🇷🇺 Operations in Russia  
+**REChain Network Solutions** and the **REChain® Trademark** are officially active in Russia. Trademark registration can be verified here:  
+🔗 [USPTO Case #97404591](https://tsdr.uspto.gov/#caseNumber=97404591&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)
+
+We are a part of **Softline Group** and the **Skolkovo ecosystem**, including software integrations with **Skoltech**.
+
+---
+
+## 💡 About Us
+
+We are a next-generation venture ecosystem, combining open-source development, socially impactful innovation, and global venture building.  
+Here’s what we’re currently working on:
+
+### 1. 🚀 REChain® VC Group Lab  
+A global **venture builder**, **startup studio**, and **incubator**, launching worldwide.  
+We focus on:
+- Blockchain-based startup solutions  
+- Personalized mentorship  
+- Syndicate model financing  
+- Global investment access & innovation support  
+
+> Demo: https://magicai.projecthub.ai/  
+> Learn more: https://rechain.work/
+
+---
+
+### 2. 🌍 Public & Social Focus
+
+- **Over 70 open-source projects**, available to the public  
+- Projects for **Russian non-profits (NCOs), budgetary organizations**, and **commercial entities**  
+- Collaboration on **government & defense projects**: Space, Aviation, AI for city/national infrastructure  
+- Support for **Internet infrastructure in underserved regions** (Africa, Iran, etc.)  
+- Leading **blockchain development, deployment, and global partnerships** (e.g., 0Byte, Polkadot)  
+
+---
+
+### 3. 🔓 Open Source First  
+
+We are committed to open-source, security, and transparency.  
+Key repositories:  
+- https://github.com/sorydima  
+- https://github.com/Eseniia-University  
+- https://github.com/Katya-Incorporated  
+- https://github.com/Katya-Solutions-LLC  
+- https://github.com/MarinaModaMusicProd  
+- https://github.com/Nastasia-Food  
+- https://github.com/REChain-Developers-Office-Foundation  
+- https://github.com/REChain-Network-Solutions  
+
+> ...and all followed accounts on GitHub.
+
+---
+
+### 4. 🎓 Eseniia University
+
+**Eseniia University** is an open, global educational initiative focused on:
+- Merging technology with education  
+- Collaborative development of modern learning tools  
+- Building inclusive, accessible education for all
+
+🌐 [University Portal](https://www.tanechca.ru/university.html)  
+🔗 [GitHub Community](https://github.com/Eseniia-University)
+
+---
+
+### 5. 🛡 Cybersecurity, Compliance & Infrastructure
+
+We build secure, resilient systems and specialize in:
+- Host, data, and software security  
+- Compliance and audit frameworks  
+- National-scale cyber-infrastructure
+
+---
+
+### 6. 🌐 Open Internet Alliance
+
+We're committed to an **open, free, safe, private, and clean** internet.  
+Join us in creating a transparent global digital future.
+
+---
+
+### 7. 📱 Global OS Initiative
+
+We're developing **Mobile Katya OS** and **Desktop Katya OS** – modular operating systems designed for global deployment, with regional versions for different countries.
+
+---
+
+### 8. 🤖 AI & Machine Learning
+
+We're building a research-driven lab for:
+- Computer Vision  
+- Big Data Analytics  
+- Natural Language Processing & Translation  
+- Cross-domain AI applications  
+
+---
+
+## 🔗 Useful Links
+
+- 🌐 [Main Ecosystem Links](https://linktr.ee/rechainnetwork)  
+- 👩‍💻 [Founder & Projects](https://linktr.ee/NataLeePro)  
+- 📎 [REChain Profile](https://me.delus.monster/rechain)  
+- 👤 [NataLee Profile](https://me.delus.monster/natalee/)  
+- 🔁 [Follow-up: Tanechca.ru](https://tanechca.ru)  
+- 📅 [Book a Meeting](https://calendly.com/preseed4/30min)
+
+---
+
+## 🔗 Blockchain & Token Info
+
+- 📈 [REChain Finance on CoinMarketCap](https://coinmarketcap.com/ru/currencies/rechain-finance/)  
+- 🐦 [X / Twitter](https://x.com/rechain_inc)  
+- 🔍 [BNB Chain Token](https://bscscan.com/token/0xf4db3dd2046d05d81980be2e65ea325597f0743b)  
+  `0xf4db3dd2046d05d81980be2e65ea325597f0743b`  
+- 🌐 [REChain Online Portal](https://online.rechain.network)  
+- 📬 [Contact Us](https://online.rechain.network/contact-us.html)
+
+> Similar links available for Katya, Inc., Tanechca Fund Office Foundation, and others.
+
+---
+
+## 🧠 Our Brands & Sub-Ecosystems
+
+REChain® is a **global brand** with a long history, spanning:
+- Networks, apps, ecosystems, and sub-ecosystems  
+- Brands like **Marina**, **Katya**, **Tanya**, and more
+
+We are building infrastructure for a more connected, fair, and open world.
+
+---
+
+## 🤝 Contact
+
+**Dmitry Olegovich Sorokin**  
+📲 Telegram: `+7 926 447-28-85`  
+📲 WhatsApp: `+7 993 903-89-65`
  
 ## Connect with Me
 
