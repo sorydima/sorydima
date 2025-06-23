@@ -152,7 +152,7 @@ Key repositories:
 - Collaborative development of modern learning tools  
 - Building inclusive, accessible education for all
 
-🌐 [University Portal](https://www.tanechca.ru/university.html)  
+🌐 [University Portal](https://tanyushaaa.ru/university.html)  
 🔗 [GitHub Community](https://github.com/Eseniia-University)
 
 ---
@@ -195,7 +195,7 @@ We're building a research-driven lab for:
 - 👩‍💻 [Founder & Projects](https://linktr.ee/NataLeePro)  
 - 📎 [REChain Profile](https://me.delus.monster/rechain)  
 - 👤 [NataLee Profile](https://me.delus.monster/natalee/)  
-- 🔁 [Follow-up: Tanechca.ru](https://tanechca.ru)  
+- 🔁 [Follow-up: Tanechca  Fund Office Foundation](https://tanyushaaa.ru)  
 - 📅 [Book a Meeting](https://calendly.com/preseed4/30min)
 
 ---
