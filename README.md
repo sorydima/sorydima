@@ -140,7 +140,8 @@ Key repositories:
 - https://github.com/MarinaModaMusicProd  
 - https://github.com/Nastasia-Food  
 - https://github.com/REChain-Developers-Office-Foundation  
-- https://github.com/REChain-Network-Solutions  
+- https://github.com/REChain-Network-Solutions
+- https://github.com/Katya-AI-Systems-LLC  
 
 > ...and all followed accounts on GitHub.
 
