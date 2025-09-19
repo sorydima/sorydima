@@ -86,6 +86,7 @@ My career journey is marked by significant milestones that reflect my growth and
 - :octocat: [Nastasia Food on Git](https://github.com/Nastasia-Food)
 - :octocat: [REChain Developers Office Foundation on Git](https://github.com/REChain-Developers-Office-Foundation)
 - :octocat: [REChain Network Solutions on Git](https://github.com/REChain-Network-Solutions)
+- :octocat: [Katya AI Systems, LLC on Git](https://github.com/Katya-AI-Systems-LLC)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=sorydima&show_icons=true)
