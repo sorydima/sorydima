@@ -1,6 +1,145 @@
-## Hello Everyone, [Good Day to all of you!](https://dmitry.rechain.network)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-
 ### Hi there 👋
+
+# 🚀 Dmitry Olegovich Sorokin — Founder  
+### Founder of **REChain® Network Solutions** · Aurora Dev Lab · Katya® AI Systems  
+
+[![X / Twitter](https://img.shields.io/badge/-@DmitrySoro90935-1DA1F2?style=flat&logo=twitter&logoColor=white&link=https://x.com/DmitrySoro90935)](https://x.com/DmitrySoro90935) [![Instagram](https://img.shields.io/badge/-@sorydima-E1306C?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/sorydima/)](https://www.instagram.com/sorydima/) [![Medium](https://img.shields.io/badge/-@sorydima-00ab6c?style=flat&logo=medium&logoColor=white&link=https://medium.com/%40sorydima)](https://medium.com/%40sorydima) [![Mastodon](https://img.shields.io/badge/-@sorydima_@mastodon.social-6364ff?style=flat&logo=mastodon&logoColor=white&link=https://mastodon.social/%40sorrydima)](https://mastodon.social/%40sorrydima) [![GitHub](https://img.shields.io/badge/-sorydima-181717?style=flat&logo=github&logoColor=white&link=https://github.com/sorydima)](https://github.com/sorydima)
+
+---
+
+## 🧭 Welcome  
+
+Hello and welcome to my digital hub. I build the future—one line of code, one network node, one ecosystem at a time.  
+I’m the founder of REChain®, a global multi-ecosystem venture studio, technology lab and open-source network. My focus spans decentralized infrastructure, artificial intelligence, education and global digital inclusion.
+
+---
+
+## 🧑‍💼 About Me  
+
+I’m Dmitry Olegovich Sorokin, a software engineer, decentralized systems architect, venture producer and researcher in AI & blockchain. I specialise in multi-agent systems (MAS), SSI/DID protocols, edge infrastructure, DAO governance and distributed technologies.  
+My mission: to apply real autonomy and sovereignty to digital ecosystems—across business, public administration and open Web3.
+
+> “Building the world where tech is open, secure and free for everyone.”
+
+---
+
+## 🌐 Ecosystem Highlights  
+
+### REChain® Network Solutions  
+A global brand and registered trademark (USPTO #97404591) operating via local subsidiaries and distributed DAO-nodes. Works across CIS, Europe, Asia, Africa, Americas.  
+Partners include Softline Group, Skolkovo Foundation, Skoltech. Operating entity: REChain Network Solutions, LLC · REChain RF.  
+⚙️ TIN: 7704409660 · OGRN: 1217700514120.
+
+### Aurora Dev Lab  
+Research & development unit focused on platform integration of domestic operating systems (Astra Linux, Aurora OS, Katya OS) into unified secure environments.  
+Projects span multi-platform compatibility, mandatory/discretionary access control, domestic hardware support (ICL, Aquarius, IRU).
+
+### Katya® OS  
+A next-generation mobile + desktop operating system built with sovereignty, privacy and decentralisation at its core.  
+Versions: Katya Mobile 📱 and Katya Desktop 💻. Developed on Web6, mesh infrastructure, AI-integration.
+
+### REChain® VC Group Lab  
+A global venture builder, incubator and startup studio supporting 150+ projects in AI, Web6, Quantum, EduTech, GovTech and SpaceTech.  
+We provide funding (Pre-seed → Series B), mentoring, access to global markets, our infrastructure (blockchain, APIs, AI tools) and white-label/DAO models.
+
+---
+
+## 🛠 Key Technology Pillars  
+
+- Decentralised cloud computing (RECloud, REChain.Space)  
+- Artificial Intelligence & cognitive systems (Katya® AI, Tanya® Core)  
+- Quantum networks & post-quantum cryptography  
+- Eco-friendly blockchains and neural nets (NeuroChain)  
+- AI + IoT + robotics integration  
+- Web6 interconnectivity & mesh networks  
+- Cybersecurity, zero-trust, compliance frameworks  
+
+---
+
+## 📂 Open-Source Repositories  
+
+Explore the public open-source network where we publish SDKs, APIs, tools, frameworks and research:  
+- [github.com/sorydima?tab=repositories](https://github.com/sorydima?tab=repositories)  
+- [github.com/Eseniia-University](https://github.com/Eseniia-University)  
+- [github.com/Katya-Incorporated](https://github.com/Katya-Incorporated)  
+- [github.com/Katya-Solutions-LLC](https://github.com/Katya-Solutions-LLC)  
+- [github.com/MarinaModaMusicProd](https://github.com/MarinaModaMusicProd)  
+- [github.com/Nastasia-Food](https://github.com/Nastasia-Food)  
+- [github.com/REChain-Developers-Office-Foundation](https://github.com/REChain-Developers-Office-Foundation)  
+- [github.com/REChain-Network-Solutions](https://github.com/REChain-Network-Solutions)  
+- [github.com/Katya-AI-Systems-LLC](https://github.com/Katya-AI-Systems-LLC)  
+
+---
+
+## 🎓 Education & Social Impact  
+
+**Eseniia University** – a decentralised global university dedicated to technology, open research and inclusive education. We build labs in AI/ML, Web6 & CyberSec; support digital education in underserved regions.  
+Our mission: Knowledge without borders.
+
+**Digital Inclusion Initiative** – connecting low-income and underserved regions (Africa, Latin America, Asia, Middle East) with open access mesh networks, satellite infrastructure and educational technology.
+
+---
+
+## 🧬 AI & Research Labs  
+
+**REChain® AI & Vision Lab** – Specialising in computer vision, big data, neural translation, multimodal models, edge intelligence and quantum-AI integration.  
+Applications: smart cities, transportation, educational tech, media.
+
+**CyberSec, Compliance & Audit Division** – Host/data/software security, zero-trust architecture, SOC/SIEM/IDS systems, audit & regulation (GDPR, ISO 27001, SOC 2, GOST R).  
+We also develop AI security frameworks and quantum-resistant systems.
+
+---
+
+## 📆 Strategic Roadmap 2025-2027  
+
+- Launch **REChain® DAO 2.0** — full ecosystem governance.  
+- Scale REChain® VC Group Lab globally.  
+- Deploy Eseniia University in 12 countries.  
+- Support Web6 and quantum-AI models.  
+- Release Katya® OS (Mobile & Desktop) in Q1 2026.  
+
+---
+
+## 📣 Media & Press Highlights  
+
+> “From MAS architectures to sovereign OS platforms – Sorokin is building the next internet.” — TechInsider Magazine  
+> “REChain’s open-mesh vision spans continents and resets how we think about digital independence.” — Global Blockchain Review  
+
+---
+
+## 🔗 Connect With Me  
+
+| Platform       | Link                                               |
+|----------------|----------------------------------------------------|
+| X / Twitter     | [@DmitrySoro90935](https://x.com/DmitrySoro90935) |
+| Instagram       | [@sorydima](https://www.instagram.com/sorydima/)   |
+| Medium          | [@sorydima](https://medium.com/%40sorydima)        |
+| Mastodon        | [@sorydima@mastodon.social](https://mastodon.social/%40sorrydima) |
+| GitHub          | [sorydima](https://github.com/sorydima)            |
+| Sessionize      | [sessionize.com/sorydima](https://sessionize.com/sorydima) |
+
+Feel free to reach out if you have ideas, collaboration proposals, or just want to explore decentralised tech together.  
+
+---
+
+## 🧩 A Bit of Code  
+
+```python
+class WhoAmI:
+    user            = "Dmitry Olegovich Sorokin — @sorydima"
+    current_work    = "Building startups, open-source infrastructure & sovereign tech"
+    hobbies         = ["Golf", "Sports", "Films & Serials", "Travelling", "Chasing that ONE BUG…"]
+    
+    def getLocation(self):
+        return "Global – based between CIS & North America"
+    
+    def ambitions(self):
+        return ["Launch DAO 2.0", "Scale VC Lab globally", "Create Katya OS", "Deploy Web6 mesh"]
+
+```
+
+Feel free to review and request **any edits**—extra sections, alternate wording, different badges, or linking to additional media outlets.
+::contentReference[oaicite:0]{index=0}
 
 # Dmitry Sorokin's GitHub Profile
 
@@ -227,3 +366,9 @@ Feel free to reach out if you have any questions, ideas, or collaboration opport
 - Email: [My Email Address](mailto:sorydima@marinchik.ink)
 
 Thank you for visiting my GitHub profile! I look forward to engaging with the community and contributing to innovative projects.
+
+Thanks for visiting my GitHub profile!
+I look forward to building a future that is open, secure and fair — for everyone.
+
+© 2025 Dmitry O. Sorokin · All rights reserved.
+Trademark REChain® is registered.
