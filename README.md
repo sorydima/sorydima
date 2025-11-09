@@ -153,7 +153,6 @@ Key repositories:
 - Collaborative development of modern learning tools  
 - Building inclusive, accessible education for all
 
-🌐 [University Portal](https://tanushaaa.ru/university.html)  
 🔗 [GitHub Community](https://github.com/Eseniia-University)
 
 ---
@@ -192,11 +191,6 @@ We're building a research-driven lab for:
 
 ## 🔗 Useful Links
 
-- 🌐 [Main Ecosystem Links](https://linktr.ee/rechainnetwork)  
-- 👩‍💻 [Founder & Projects](https://linktr.ee/NataLeePro)  
-- 📎 [REChain Profile](https://me.delus.monster/rechain)  
-- 👤 [NataLee Profile](https://me.delus.monster/natalee/)  
-- 🔁 [Follow-up: Tanechca  Fund Office Foundation](https://tanushaaa.ru)  
 - 📅 [Book a Meeting](https://calendly.com/preseed4/30min)
 
 ---
@@ -206,12 +200,8 @@ We're building a research-driven lab for:
 - 📈 [REChain Finance on CoinMarketCap](https://coinmarketcap.com/ru/currencies/rechain-finance/)  
 - 🐦 [X / Twitter](https://x.com/rechain_inc)  
 - 🔍 [BNB Chain Token](https://bscscan.com/token/0xf4db3dd2046d05d81980be2e65ea325597f0743b)  
-  `0xf4db3dd2046d05d81980be2e65ea325597f0743b`  
-- 🌐 [REChain Online Portal](https://online.rechain.network)  
-- 📬 [Contact Us](https://online.rechain.network/contact-us.html)
-
-> Similar links available for Katya, Inc., Tanechca Fund Office Foundation, and others.
-
+  `0xf4db3dd2046d05d81980be2e65ea325597f0743b`
+  
 ---
 
 ## 🧠 Our Brands & Sub-Ecosystems
@@ -234,11 +224,6 @@ We are building infrastructure for a more connected, fair, and open world.
 
 Feel free to reach out if you have any questions, ideas, or collaboration opportunities. You can connect with me through the following platforms:
 - Matrix: [Matrix](https://matrix.to/#/@sorydima:matrix.org)
-- Twitter/X.com: [Twitter/X.com](https://x.com/DmitrySoro90935)
-- Email: [My Email Address](mailto:sorydima@rechain.work)
+- Email: [My Email Address](mailto:sorydima@marinchik.ink)
 
 Thank you for visiting my GitHub profile! I look forward to engaging with the community and contributing to innovative projects.
-
----
-
-*For more information, visit my personal website at [Wiki Page](https://dmitry.rechain.network).*
