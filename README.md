@@ -114,8 +114,7 @@ We focus on:
 - Syndicate model financing  
 - Global investment access & innovation support  
 
-> Demo: https://magicai.projecthub.ai/  
-> Learn more: https://rechain.work/
+> Demo: https://magicai.projecthub.ai/
 
 ---
 
