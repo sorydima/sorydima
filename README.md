@@ -354,6 +354,76 @@ REChain® is a **global brand** with a long history, spanning:
 
 We are building infrastructure for a more connected, fair, and open world.
 
+## About REChain® Network Solutions
+
+REChain® Network Solutions is an international ecosystem that integrates decentralized technologies, artificial intelligence, education, and innovations. We work on creating sustainable solutions for the global infrastructure of the future. Our goal is to make technologies accessible, secure, and open for all of humanity.
+
+### Key Areas:
+
+* **Decentralized Computing:** REChain®, REChain.Space, RECloud.
+* **Artificial Intelligence:** Katya® AI, Tanya® Core.
+* **Quantum Computing and Cryptography.**
+* **Integration of IoT and Robotics with AI.**
+* **Education and Digital Equality:** Eseniia University and the "Knowledge Without Borders" program.
+
+---
+
+### Jurisdictions and Regions:
+
+* **CIS (Commonwealth of Independent States):** REChain® Network Solutions, LLC, registered trademark in Russia.
+* **USA:** Registered trademark, available to partners through partnership programs.
+* **Europe, Asia, Africa, Latin America:** Through local subsidiaries and distributed REChain® DAO nodes.
+
+---
+
+### Strategic Partners and Alliances:
+
+* **Softline Group**
+* **Skolkovo Foundation**
+* **Skoltech**
+* **REChain VC Group Lab**
+* **Katya AI Systems LLC**
+* **Marina Moda Music Production**
+* **0Byte, Polkadot, OpenAI Community Builders**
+
+---
+
+### Innovations and Projects:
+
+* **REChain® VC Group Lab:** A global venture ecosystem supporting startups based on blockchain, AI, and quantum technologies.
+* **AI & Vision Lab:** Research in computer vision, big data analytics, and neural network models.
+* **REChain® Cloud:** Decentralized cloud for the new era with quantum computing support.
+* **Katya® OS:** Decentralized operating system for mobile and desktop platforms.
+
+---
+
+### Openness and Technologies:
+
+* **Open Source:** Development and support of open-source solutions, including REChain® OS core, SDK, and APIs for integration.
+* **Core Principles:** Transparency, security, privacy by default, supporting digital independence.
+* **Web6 and Decentralized Networks:** We are developing next-generation distributed networks for secure and resilient digital infrastructures.
+
+---
+
+### Strategic Focus (2025–2027):
+
+* **Launch of REChain® DAO 2.0** — Distributed governance of the ecosystem.
+* **Global expansion of REChain® VC Group Lab.**
+* **Deployment of Eseniia University in 12 countries.**
+* **Release of Katya® OS (mobile & desktop) in Q1 2026.**
+
+---
+
+### Privacy and Security:
+
+We ensure that our systems are always protected from threats by adhering to **Zero Trust** and **Privacy by Design** principles. We use advanced encryption and data protection methods for all users.
+
+---
+
+### Our Participation in Alliances:
+
+We actively participate in international initiatives to ensure digital freedom and equality. Our partners and participants include **GitHub**, **Linux Foundation**, **Polkadot Builders**, **0Byte Labs**, as well as independent developers and research labs worldwide.
+
 ---
 
 ## 🤝 Contact
