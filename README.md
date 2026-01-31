@@ -437,8 +437,6 @@ We actively participate in international initiatives to ensure digital freedom a
 Feel free to reach out if you have any questions, ideas, or collaboration opportunities. You can connect with me through the following platforms:
 - Matrix: [Matrix](https://matrix.to/#/@sorydima:matrix.org)
 
-Thank you for visiting my GitHub profile! I look forward to engaging with the community and contributing to innovative projects.
-
 Thanks for visiting my GitHub profile!
 I look forward to building a future that is open, secure and fair — for everyone.
 
