@@ -139,8 +139,7 @@ class WhoAmI:
 
 ```
 
-Feel free to review and request **any edits**—extra sections, alternate wording, different badges, or linking to additional media outlets.
-::contentReference[oaicite:0]{index=0}
+Feel free to review and request **any edits** — extra sections, alternate wording, different badges, or linking to additional media outlets.
 
 # Dmitry Sorokin's GitHub Profile
 
