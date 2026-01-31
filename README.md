@@ -67,7 +67,8 @@ Explore the public open-source network where we publish SDKs, APIs, tools, frame
 - [github.com/Nastasia-Food](https://github.com/Nastasia-Food)  
 - [github.com/REChain-Developers-Office-Foundation](https://github.com/REChain-Developers-Office-Foundation)  
 - [github.com/REChain-Network-Solutions](https://github.com/REChain-Network-Solutions)  
-- [github.com/Katya-AI-Systems-LLC](https://github.com/Katya-AI-Systems-LLC)  
+- [github.com/Katya-AI-Systems-LLC](https://github.com/Katya-AI-Systems-LLC)
+- [github.com/Katya-Aviation-Stack-Inc](https://github.com/Katya-Aviation-Stack-Inc) 
 
 ---
 
@@ -226,6 +227,7 @@ My career journey is marked by significant milestones that reflect my growth and
 - :octocat: [REChain Developers Office Foundation on Git](https://github.com/REChain-Developers-Office-Foundation)
 - :octocat: [REChain Network Solutions on Git](https://github.com/REChain-Network-Solutions)
 - :octocat: [Katya AI Systems, LLC on Git](https://github.com/Katya-AI-Systems-LLC)
+- :octocat: - [Katya-Aviation-Stack-Inc on Git](https://github.com/Katya-Aviation-Stack-Inc)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
 ![Haany's github stats](https://github-readme-stats.vercel.app/api?username=sorydima&show_icons=true)
@@ -279,7 +281,8 @@ Key repositories:
 - https://github.com/Nastasia-Food  
 - https://github.com/REChain-Developers-Office-Foundation  
 - https://github.com/REChain-Network-Solutions
-- https://github.com/Katya-AI-Systems-LLC  
+- https://github.com/Katya-AI-Systems-LLC
+- https://github.com/Katya-Aviation-Stack-Inc
 
 > ...and all followed accounts on GitHub.
 
@@ -363,12 +366,11 @@ We are building infrastructure for a more connected, fair, and open world.
 
 Feel free to reach out if you have any questions, ideas, or collaboration opportunities. You can connect with me through the following platforms:
 - Matrix: [Matrix](https://matrix.to/#/@sorydima:matrix.org)
-- Email: [My Email Address](mailto:sorydima@marinchik.ink)
 
 Thank you for visiting my GitHub profile! I look forward to engaging with the community and contributing to innovative projects.
 
 Thanks for visiting my GitHub profile!
 I look forward to building a future that is open, secure and fair — for everyone.
 
-© 2025 Dmitry O. Sorokin · All rights reserved.
+© 2025-2026 Dmitry O. Sorokin · All rights reserved.
 Trademark REChain® is registered.
