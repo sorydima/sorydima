@@ -165,8 +165,6 @@ I am Dmitry Sorokin, a dedicated professional in the tech industry with a deep-s
 * Data Science & AI
 * Frontend and Backend Web Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sorydima&layout=compact">
-
 ### Professional Background
 
 My career journey is marked by significant milestones that reflect my growth and commitment to excellence in the tech world:
