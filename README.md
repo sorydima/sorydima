@@ -1,5 +1,96 @@
 ### Hi there 👋
 
+## Behind what I work on
+
+I design and build **autonomous, resilient, and recoverable systems** that continue to function under degraded, disconnected, or adversarial conditions.
+
+My work sits at the intersection of:
+
+- resilience of complex socio-technical systems  
+- offline-first and failure-tolerant digital infrastructure  
+- autonomous life-support and critical infrastructure  
+- aviation, unmanned, and robotic platforms (GNSS-challenged)  
+
+> In real crises, intelligence does not fail first —  
+> **energy, connectivity, logistics, and governance do.**
+
+---
+
+## Engineering focus
+
+I treat resilience as an **engineering discipline**, not a property that “emerges”.
+
+Assumptions → Requirements → Architecture → Verification → Metrics
+
+
+Key principles:
+
+- degraded operation is a normal mode  
+- no single points of failure  
+- explicit assumptions and dependency minimization  
+- predictable degradation instead of catastrophic collapse  
+- measurable recovery (MTBF, MTTR, RTO, RPO)
+
+---
+
+## Current initiatives
+
+- **Resilient Systems Engineering Group, Inc**  
+  Research organization focused on autonomy, degradation, and recovery
+
+- **Katya OS / Katya AI**  
+  Offline-first operating environments and local inference systems
+
+- **REChain Network Solutions**  
+  Distributed, failure-tolerant infrastructure and governance tooling
+
+- **Katya Aviation Stack**  
+  GNSS-challenged aviation and unmanned systems
+
+- **Applied Labs**  
+  Food systems, manufacturing, media, and education as real-world resilience testbeds
+
+---
+
+## Research domains
+
+- scenario modeling, FMEA / FTA / STPA  
+- offline-first data and mesh communication  
+- cyber-physical systems and sensor fusion  
+- life-support systems engineering (ECLSS-inspired)  
+- knowledge vaults and reproducible documentation  
+
+---
+
+## Open source position
+
+Open source is a **tool for auditability and survivability**, not ideology.
+
+I publish architectures, frameworks, and tooling where it improves:
+
+- verifiability  
+- peer review  
+- long-term maintainability  
+- reduced vendor lock-in  
+
+---
+
+## Collaboration
+
+I collaborate with:
+
+- R&D teams and research institutes  
+- aerospace and robotics engineers  
+- infrastructure and energy operators  
+- academic and applied research groups  
+
+If you work on systems that must **keep working when assumptions collapse**,  
+we probably have something to talk about.
+
+---
+
+*Engineering systems that fail well, degrade predictably, and recover deliberately.*
+
 # 🚀 Dmitry Olegovich Sorokin — Founder  
 ### Founder of **REChain® Network Solutions** · Aurora Dev Lab · Katya® AI Systems  
 
@@ -68,7 +159,8 @@ Explore the public open-source network where we publish SDKs, APIs, tools, frame
 - [github.com/REChain-Developers-Office-Foundation](https://github.com/REChain-Developers-Office-Foundation)  
 - [github.com/REChain-Network-Solutions](https://github.com/REChain-Network-Solutions)  
 - [github.com/Katya-AI-Systems-LLC](https://github.com/Katya-AI-Systems-LLC)
-- [github.com/Katya-Aviation-Stack-Inc](https://github.com/Katya-Aviation-Stack-Inc) 
+- [github.com/Katya-Aviation-Stack-Inc](https://github.com/Katya-Aviation-Stack-Inc)
+- [github.com/Resilient-Systems-Engineering-Group-Inc](https://github.com/Resilient-Systems-Engineering-Group-Inc)
 
 ---
 
@@ -225,6 +317,7 @@ My career journey is marked by significant milestones that reflect my growth and
 - :octocat: [REChain Network Solutions on Git](https://github.com/REChain-Network-Solutions)
 - :octocat: [Katya AI Systems, LLC on Git](https://github.com/Katya-AI-Systems-LLC)
 - :octocat: [Katya-Aviation-Stack-Inc on Git](https://github.com/Katya-Aviation-Stack-Inc)
+- :octocat: [Resilient Systems Engineering Group, Inc on Git](https://github.com/Resilient-Systems-Engineering-Group-Inc)
 - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
 # REChain® Network & Ecosystem
@@ -278,6 +371,7 @@ Key repositories:
 - https://github.com/REChain-Network-Solutions
 - https://github.com/Katya-AI-Systems-LLC
 - https://github.com/Katya-Aviation-Stack-Inc
+- https://github.com/Resilient-Systems-Engineering-Group-Inc
 
 > ...and all followed accounts on GitHub.
 
